@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/github.io/kingsdine/static/css/main.86c9714d.css",
+    "main.js": "/github.io/kingsdine/static/js/main.937b9ab8.js",
+    "static/media/meal.mp4": "/github.io/kingsdine/static/media/meal.b5119c638c91265c04fd.mp4",
+    "static/media/menu.jpg": "/github.io/kingsdine/static/media/menu.c63f758c3326b1dac310.jpg",
+    "static/media/chef.jpg": "/github.io/kingsdine/static/media/chef.19653199f872668ab288.jpg",
+    "static/media/bgg.jpg": "/github.io/kingsdine/static/media/bgg.356774c03a42fe5b1b10.jpg",
+    "static/media/logo.png": "/github.io/kingsdine/static/media/logo.555ec1d7887d3da4cf45.png",
+    "static/media/plate.png": "/github.io/kingsdine/static/media/plate.35f6c4870c2819f10d47.png",
+    "static/media/k.png": "/github.io/kingsdine/static/media/k.5306563e6461dcb9ea54.png",
+    "static/media/gallery1.jpeg": "/github.io/kingsdine/static/media/gallery1.f5f4178b6ed2961f3e41.jpeg",
+    "static/media/gallery2.jpeg": "/github.io/kingsdine/static/media/gallery2.ad87182aabfb72599f39.jpeg",
+    "static/media/kebabs.jpeg": "/github.io/kingsdine/static/media/kebabs.b523ff7cfa0a11fb7626.jpeg",
+    "static/media/gallery3.jpeg": "/github.io/kingsdine/static/media/gallery3.5e2f435b56766123c3ec.jpeg",
+    "static/media/award02.png": "/github.io/kingsdine/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/github.io/kingsdine/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/github.io/kingsdine/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/github.io/kingsdine/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/github.io/kingsdine/index.html",
+    "main.86c9714d.css.map": "/github.io/kingsdine/static/css/main.86c9714d.css.map",
+    "main.937b9ab8.js.map": "/github.io/kingsdine/static/js/main.937b9ab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c9714d.css",
+    "static/js/main.937b9ab8.js"
+  ]
+}
