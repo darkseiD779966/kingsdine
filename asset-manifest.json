@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/kingsdine/static/css/main.86c9714d.css",
-    "main.js": "/github.io/kingsdine/static/js/main.937b9ab8.js",
+    "main.js": "/github.io/kingsdine/static/js/main.a9476f32.js",
     "static/media/meal.mp4": "/github.io/kingsdine/static/media/meal.b5119c638c91265c04fd.mp4",
     "static/media/menu.jpg": "/github.io/kingsdine/static/media/menu.c63f758c3326b1dac310.jpg",
     "static/media/chef.jpg": "/github.io/kingsdine/static/media/chef.19653199f872668ab288.jpg",
@@ -19,10 +19,10 @@
     "static/media/award03.png": "/github.io/kingsdine/static/media/award03.3f7ee934c17dccbd5fc6.png",
     "index.html": "/github.io/kingsdine/index.html",
     "main.86c9714d.css.map": "/github.io/kingsdine/static/css/main.86c9714d.css.map",
-    "main.937b9ab8.js.map": "/github.io/kingsdine/static/js/main.937b9ab8.js.map"
+    "main.a9476f32.js.map": "/github.io/kingsdine/static/js/main.a9476f32.js.map"
   },
   "entrypoints": [
     "static/css/main.86c9714d.css",
-    "static/js/main.937b9ab8.js"
+    "static/js/main.a9476f32.js"
   ]
 }
