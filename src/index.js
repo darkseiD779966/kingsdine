@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import {HashRouter} from 'react-router-dom';
 import './index.css';
-ReactDOM.render(<React.StrictMode>
-<HashRouter basename={process.env.PUBLIC_URL}>
+ReactDOM.createRoot(document.getElementById('root')).render(
+<React.StrictMode>
+<HashRouter>
     <App />
 </HashRouter>
-</React.StrictMode>,
-document.getElementById('root')
+</React.StrictMode>
 );
